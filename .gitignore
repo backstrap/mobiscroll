@@ -6,3 +6,6 @@ compiler.jar
 yuicompressor.jar
 minify.bat
 mobiscroll.full.*
+vendor
+components
+composer.lock
