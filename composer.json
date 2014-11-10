@@ -1,0 +1,89 @@
+{
+  "name": "backstrap/mobiscroll",
+  "description": "A wheel scroller control optimized for touchscreens to easily enter date/time. It can easily be customized to support any custom values.",
+  "version": "2.13.2",
+  "type": "component",
+  "license": "MIT",
+  "homepage": "http://mobiscroll.com/",
+  "keywords": [
+    "ui",
+    "input",
+    "form",
+    "html5",
+    "mobile",
+    "list",
+    "hierarchy",
+    "scroller",
+    "clickpick"
+  ],
+  "authors": [
+    {
+      "name": "Acid Media",
+      "homepage": "http://theacidmedia.net"
+    }
+  ],
+  "require": {
+    "robloach/component-installer": "*"
+  },
+  "extra": {
+    "component": {
+      "scripts": [
+        "js/mobiscroll.core.js",
+	"js/mobiscroll.widget.js",
+        "js/mobiscroll.scroller.js",
+	"js/mobiscroll.util.datetime.js",
+	"js/mobiscroll.datetime.js",
+	"js/mobiscroll.select.js",
+	"js/mobiscroll.list.js"
+      ],
+      "styles": [
+	"css/mobiscroll.animation.css",
+	"css/mobiscroll.widget.css",
+        "css/mobiscroll.scroller.css"
+      ],
+      "files": [
+        "js/mobiscroll.appframework.js",
+        "js/mobiscroll.jqmwidget.js",
+        "js/mobiscroll.widget.android-holo.js",
+        "js/mobiscroll.widget.android.js",
+        "js/mobiscroll.widget.ios7.js",
+        "js/mobiscroll.widget.ios.js",
+        "js/mobiscroll.widget.jqm.js",
+        "js/mobiscroll.widget.sense-ui.js",
+        "js/mobiscroll.widget.wp.js",
+        "js/mobiscroll.zepto.js",
+        "i18n/mobiscroll.i18n.cs.js",
+        "i18n/mobiscroll.i18n.de.js",
+        "i18n/mobiscroll.i18n.en-UK.js",
+        "i18n/mobiscroll.i18n.es.js",
+        "i18n/mobiscroll.i18n.fa.js",
+        "i18n/mobiscroll.i18n.fr.js",
+        "i18n/mobiscroll.i18n.hu.js",
+        "i18n/mobiscroll.i18n.it.js",
+        "i18n/mobiscroll.i18n.ja.js",
+        "i18n/mobiscroll.i18n.nl.js",
+        "i18n/mobiscroll.i18n.no.js",
+        "i18n/mobiscroll.i18n.pl.js",
+        "i18n/mobiscroll.i18n.pt-BR.js",
+        "i18n/mobiscroll.i18n.pt-PT.js",
+        "i18n/mobiscroll.i18n.ro.js",
+        "i18n/mobiscroll.i18n.ru.js",
+        "i18n/mobiscroll.i18n.ru-UA.js",
+        "i18n/mobiscroll.i18n.sk.js",
+        "i18n/mobiscroll.i18n.sv.js",
+        "i18n/mobiscroll.i18n.tr.js",
+        "i18n/mobiscroll.i18n.zh.js"
+      ],
+      "shim": {
+        "deps": [
+          "jquery"
+        ]
+      }
+    }
+  },
+  "config": {
+    "component": {
+      "noGlobal": false
+    }
+  }
+}
