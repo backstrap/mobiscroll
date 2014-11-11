@@ -35,14 +35,14 @@
 	"js/mobiscroll.datetime.js",
         "js/mobiscroll.jqmwidget.js",
 	"js/mobiscroll.select.js",
-	"js/mobiscroll.list.js"
+	"js/mobiscroll.list.js",
         "js/mobiscroll.widget.android-holo.js",
         "js/mobiscroll.widget.android.js",
         "js/mobiscroll.widget.ios7.js",
         "js/mobiscroll.widget.ios.js",
         "js/mobiscroll.widget.jqm.js",
         "js/mobiscroll.widget.sense-ui.js",
-        "js/mobiscroll.widget.wp.js",
+        "js/mobiscroll.widget.wp.js"
       ],
       "styles": [
 	"css/mobiscroll.animation.css",
