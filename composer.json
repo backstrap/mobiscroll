@@ -57,6 +57,7 @@
         "css/mobiscroll.scroller.wp.css",
         "css/mobiscroll.widget.android.css",
         "css/mobiscroll.widget.android-holo.css",
+        "css/mobiscroll.widget.bootstrap.css",
 	"css/mobiscroll.widget.css",
         "css/mobiscroll.widget.ios7.css",
         "css/mobiscroll.widget.ios.css",
