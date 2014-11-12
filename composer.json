@@ -33,7 +33,6 @@
         "js/mobiscroll.scroller.js",
 	"js/mobiscroll.util.datetime.js",
 	"js/mobiscroll.datetime.js",
-        "js/mobiscroll.jqmwidget.js",
 	"js/mobiscroll.select.js",
 	"js/mobiscroll.list.js",
         "js/mobiscroll.widget.android-holo.js",
