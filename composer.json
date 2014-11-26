@@ -32,6 +32,7 @@
 	"js/mobiscroll.widget.js",
         "js/mobiscroll.scroller.js",
 	"js/mobiscroll.util.datetime.js",
+	"js/mobiscroll.datetimebase.js",
 	"js/mobiscroll.datetime.js",
 	"js/mobiscroll.select.js",
 	"js/mobiscroll.list.js",
